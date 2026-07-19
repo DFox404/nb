@@ -5,5 +5,5 @@
 ---
 ## Uses 👇
 ```bash
-javascript:fetch("https://dfox404.github.io/nb/f").then(f=>f.text()).then(eval)
+javascript:fetch("https://dfox404.github.io/n/f").then(f=>f.text()).then(eval)
 ```

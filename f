@@ -25,7 +25,7 @@ if(typeof window.F!=='undefined'){const r=window.F;if(typeof r==='string'){const
 L.log('INIT',`UID=${UID},DT=${DT?.n||'none'}`);
 
 // ═══════════ CONFIGURATION ═══════════
-const CFG={status:1,musicUrl:'https://raw.githubusercontent.com/A2MBD3/Aincrad/main/assets/music.txt',apiBase:'https://d.dfox404.workers.dev/',apiKey:'abdullah',totpSec:'6ZQ4X3VPEK5XG2Q',userApi:'https://nebula-bot-sa9k.onrender.com',fbUrl:'https://dfox404.github.io/nb',timing:{init:10000,exploit:20000,min:25000,auto:10000},cssUrl:'https://dfox404.github.io/nb/fox.css'};
+const CFG={status:1,musicUrl:'https://raw.githubusercontent.com/A2MBD3/Aincrad/main/assets/music.txt',apiBase:'https://d.dfox404.workers.dev/',apiKey:'abdullah',totpSec:'6ZQ4X3VPEK5XG2Q',userApi:'https://nebula-bot-sa9k.onrender.com',fbUrl:'https://dfox404.github.io/n',timing:{init:10000,exploit:20000,min:25000,auto:10000},cssUrl:'https://dfox404.github.io/n/fox.css'};
 const DU={id:0,name:'TEAM CRX OFFICIAL',password:'0',tgChannel:'t.me/HQcrx',banned:0,creator:'@a2mbd3',chatId:'',createdAt:''};
 let UD={...DU};
 
