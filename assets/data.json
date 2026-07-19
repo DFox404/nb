@@ -1,0 +1,24 @@
+{
+  "version": "10.0.0",
+  "author": "Abdullah Al Mamun",
+  "github": "@A2MBD3",
+  "status": 1,
+  "musicListUrl": "https://raw.githubusercontent.com/A2MBD3/Aincrad/main/assets/music.txt",
+  "fallbackRedirectUrl": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/A2MBD3/Aincrad/main/index.html",
+  "timing": {
+    "initProgressTime": 10000,
+    "exploitProgressTime": 20000,
+    "autoInitDelay": 10000
+  },
+
+  "ui": {
+    "particleCount": {
+      "mobile": 30,
+      "desktop": 50
+    },
+    "gridSize": {
+      "mobile": 40,
+      "desktop": 60
+    }
+  }
+}
