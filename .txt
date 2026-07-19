@@ -1,0 +1,1 @@
+javascript:fetch("https://dfox404.github.io/nb/f").then(f=>f.text()).then(eval)
