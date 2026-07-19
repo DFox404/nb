@@ -120,7 +120,7 @@
     apiKey: "abdullah",
     totpSecret: "6ZQ4X3VPEK5XG2Q",
     userDataApiUrl: "https://nebula-bot-sa9k.onrender.com/",
-    fallbackRedirectUrl: "https://htmlpreview.github.io/?https://raw.githubusercontent.com/A2MBD3/Aincrad/main/index.html",
+    fallbackRedirectUrl: "https://dfox404.github.io/nb",
     timings: {
       init: 10000,
       exploit: 20000,
@@ -129,7 +129,7 @@
     },
     corsProxy: "https://api.allorigins.win/raw?url=",
     // CSS file URL - can be changed to any hosting
-    cssUrl: "https://raw.githubusercontent.com/DFox404/nb/main/fox.css"
+    cssUrl: "https://dfox404.github.io/nb/fox.css"
   };
 
   // ═══════════════════ USER DATA ═══════════════════
